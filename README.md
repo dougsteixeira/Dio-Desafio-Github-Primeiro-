@@ -1,1 +1,2 @@
-# Repositório do Primeiro desafio GitHub da DIO
+# Primeiro desafio GitHub da DIO
+Repositório sobre o Desafio GitHUb
